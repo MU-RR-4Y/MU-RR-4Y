@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I am Michael, welcome to my Github.
+
+I have recently completed the Professional Software Development course as part ofthe SR12 cohort with CodeClan and I am now looking for a role as a junior developer.
+
+Previously worked in Investment Banking operations for 9 years at Morgan Stanley, Barclays and Evelyn Partners.
+
+During the the CodeClan course I learned and built applications and gmes using the follwiing languages and tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,postgres,git,github,js,react,express,nodejs,mongodb,java,spring,cs,unity,vscode,visualstudio,idea)](https://skillicons.dev)
 
 <!--
 **MU-RR-4Y/MU-RR-4Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
