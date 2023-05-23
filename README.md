@@ -7,6 +7,7 @@ Previously worked in Investment Banking operations for 9 years at Morgan Stanley
 During the the CodeClan course I learnt and built applications and games using the following languages and tools:
 <hr>
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,postgres,git,github,js,react,express,nodejs,mongodb,java,spring,cs,unity,vscode,visualstudio,idea)](https://skillicons.dev)
+
 <hr>
 <!--
 **MU-RR-4Y/MU-RR-4Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
