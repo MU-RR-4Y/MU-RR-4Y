@@ -9,6 +9,14 @@ During the the CodeClan course I learnt and built applications and games using t
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,postgres,git,github,js,react,express,nodejs,mongodb,java,spring,cs,unity,vscode,visualstudio,idea)](https://skillicons.dev)
 
+### Projects
+
+[Martian Survival](https://github.com/MU-RR-4Y/Martian-Survival): A 3rd person wave/tower defence game. Built in Unity with C#. Solo project.
+
+[Dino Trumps](https://github.com/MU-RR-4Y/top_trumps_project): A dinosaur take on the top trumps card game. Built with Javascript, React, Express & MongoDB. Group project.
+
+[Travel Wishlist](https://github.com/MU-RR-4Y/Travel-Wishlist---Python-Web-App-Project): A Travel Wishlist app. Built using Python, HTML & CSS, FLask & PostgreSQL. Solo project.
+
 
 <!--
 **MU-RR-4Y/MU-RR-4Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
