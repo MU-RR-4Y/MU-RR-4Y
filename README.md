@@ -10,6 +10,8 @@ During the the CodeClan course I learnt and built applications and games using t
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,postgres,git,github,js,react,express,nodejs,mongodb,java,spring,cs,unity,vscode,visualstudio,idea)](https://skillicons.dev)
 
 <hr>
+
+
 ### Projects
 
 [Martian Survival](https://github.com/MU-RR-4Y/Martian-Survival): A 3rd person wave/tower defence game. Built in Unity with C#. Solo project.
