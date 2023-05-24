@@ -1,10 +1,15 @@
 ### Hi there 👋 I am Michael, welcome to my Github.
 
-I have recently completed the Professional Software Development course as part ofthe SR12 cohort with CodeClan and I am now looking for a role as a junior developer.
+### About Me
+
+I have recently completed the Professional Software Development course as part of the SR12 cohort with CodeClan and I am now looking for a role as a junior developer.
 
 Previously I worked in Investment Banking operations for 9 years at Morgan Stanley, Barclays and Evelyn Partners.
 
-During the the CodeClan course I learnt and built applications and games using the following languages and tools:
+During the CodeClan course I learnt and built applications and games using a number of languages and tools - particularly enjoying using React and Unity.
+
+I'm always eager to learn new tech and below are the technologies that I have covered so far:
+
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,postgres,git,js,react,express,nodejs,mongodb,java,spring,cs,unity)](https://skillicons.dev)
