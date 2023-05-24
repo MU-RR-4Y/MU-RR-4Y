@@ -4,7 +4,7 @@
 
 I have recently completed the Professional Software Development course as part of the SR12 cohort with CodeClan and I am now looking for a role as a junior developer.
 
-Previously I worked in Investment Banking operations for 9 years at Morgan Stanley, Barclays and Evelyn Partners.
+I previously worked in Investment Banking operations for 9 years at Morgan Stanley, Barclays and Evelyn Partners.
 
 During the CodeClan course I learnt and built applications and games using a number of languages and tools - particularly enjoying using React and Unity.
 
