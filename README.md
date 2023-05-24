@@ -7,7 +7,7 @@ Previously I worked in Investment Banking operations for 9 years at Morgan Stanl
 During the the CodeClan course I learnt and built applications and games using the following languages and tools:
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,postgres,git,github,js,react,express,nodejs,mongodb,java,spring,cs,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,postgres,git,js,react,express,nodejs,mongodb,java,spring,cs,unity)](https://skillicons.dev)
 
 <hr>
 
