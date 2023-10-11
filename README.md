@@ -15,7 +15,9 @@ I'm always eager to learn new tech and below are the technologies that I have co
 [![My Skills](https://skillicons.dev/icons?i=html,css,py,flask,postgres,git,js,react,express,nodejs,mongodb,java,spring,cs,unity)](https://skillicons.dev)
 
 <hr>
+### Ongoing Project
 
+[Blazor Stocks & Shares App](https://github.com/MU-RR-4Y/StocksApp) : I am currently working on building out this application using Blazor Server & MudBlazor UI
 
 ### Projects
 
